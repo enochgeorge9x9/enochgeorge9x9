@@ -18,14 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=enochgeorge9x9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=enochgeorge9x9&icon=7&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal/enochgeorge9x9) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
